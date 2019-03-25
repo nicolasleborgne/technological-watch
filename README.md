@@ -10,6 +10,7 @@ Reminder and tracker of my technological watch
 * [✔️] https://www.jamesshore.com/Agile-Book/test_driven_development.html
 * [✔️] https://xp123.com/articles/3a-arrange-act-assert/
 * [✔️] https://martinfowler.com/bliki/GivenWhenThen.html
+* https://martinfowler.com/articles/microservice-testing/#agenda
 
 
 ## Architecture
