@@ -5,8 +5,12 @@ Reminder and tracker of my technological watch
 * [✔️] https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/
 * [✔️] https://youtu.be/Rnh5QK__pLA?list=PLYukwh-ozM4PWCKeNdUfnmscb0oI1cP3T
 
-## Software engineering
-* https://blog.octo.com/la-pyramide-des-tests-par-la-pratique-1-5/
+## Testing
+* [✔️] https://blog.octo.com/la-pyramide-des-tests-par-la-pratique-1-5/
+* [✔️] https://www.jamesshore.com/Agile-Book/test_driven_development.html
+* [✔️] https://xp123.com/articles/3a-arrange-act-assert/
+* [✔️] https://martinfowler.com/bliki/GivenWhenThen.html
+
 
 ## Architecture
 * [✔️] https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/
