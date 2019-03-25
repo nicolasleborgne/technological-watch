@@ -1,6 +1,9 @@
 # Technological watch
 Reminder and tracker of my technological watch
 
+## Agility
+* https://blog.octo.com/lagilite-rh-selon-frankenstein-ne-laissez-pas-la-transformation-se-retourner-contre-vous/
+
 ## Cross domain
 * [✔️] https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/
 * [✔️] https://youtu.be/Rnh5QK__pLA?list=PLYukwh-ozM4PWCKeNdUfnmscb0oI1cP3T
