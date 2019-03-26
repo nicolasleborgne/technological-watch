@@ -28,3 +28,4 @@ Reminder and tracker of my technological watch
 
 ## Ops
 * [✔️] https://www.deltasight.fr/configurer-workers-php-fpm/
+* https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04
