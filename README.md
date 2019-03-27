@@ -15,7 +15,8 @@ Reminder and tracker of my technological watch
 * [✔️] https://xp123.com/articles/3a-arrange-act-assert/
 * [✔️] https://martinfowler.com/bliki/GivenWhenThen.html
 * [✔️] https://stackify.com/unit-testing-basics-best-practices/
-* https://martinfowler.com/articles/microservice-testing/#agenda
+* [✔️] https://martinfowler.com/articles/microservice-testing/#agenda
+* https://leanpub.com/wewut
 
 ## Architecture
 * [✔️] https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/
@@ -32,4 +33,6 @@ Reminder and tracker of my technological watch
 
 ## Ops
 * [✔️] https://www.deltasight.fr/configurer-workers-php-fpm/
+* https://docs.ansible.com/ansible/latest/reference_appendices/test_strategies.html
+* https://coderwall.com/p/8yfuva/how-to-develop-ansible-roles-w-unit-test-and-ci
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04
