@@ -24,6 +24,9 @@ Reminder and tracker of my technological watch
 * https://www.youtube.com/watch?v=y7c-XWLYMVA
 * https://dzone.com/articles/applying-hexagonal-architecture-to-a-symfony-proje
 * https://martinfowler.com/bliki/PresentationDomainDataLayering.html
+* https://fr.wikipedia.org/wiki/Protocol_Buffers
+* https://fr.wikipedia.org/wiki/Atom_Publishing_Protocol
+* https://fr.wikipedia.org/wiki/Atom_Syndication_Format
 
 ## Backend
 * https://www.netlify.com/
