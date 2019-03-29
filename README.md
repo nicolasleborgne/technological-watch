@@ -30,6 +30,7 @@ Reminder and tracker of my technological watch
 
 ## Backend
 * https://www.netlify.com/
+* [✔️] http://fabien.potencier.org/symfony4-unpack-the-packs.html
 
 ## Frontend
 * https://www.gatsbyjs.org/
