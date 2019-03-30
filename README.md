@@ -37,6 +37,9 @@ Reminder and tracker of my technological watch
 * http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf
 * http://dreamsongs.com/WorseIsBetter.html
 * [✔️] https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+* https://cqrs.wordpress.com/documents/task-based-ui/
+* https://blog.octo.com/en/event-sourcing-nosql/
+* https://martinfowler.com/eaaDev/EventSourcing.html
 
 ## Backend
 * https://www.netlify.com/
