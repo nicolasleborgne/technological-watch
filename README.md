@@ -20,13 +20,23 @@ Reminder and tracker of my technological watch
 
 ## Architecture
 * [✔️] https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/
-* https://dzone.com/articles/development-environments-for-microservices
+* [✔️] https://dzone.com/articles/development-environments-for-microservices
 * https://www.youtube.com/watch?v=y7c-XWLYMVA
 * https://dzone.com/articles/applying-hexagonal-architecture-to-a-symfony-proje
 * https://martinfowler.com/bliki/PresentationDomainDataLayering.html
 * https://fr.wikipedia.org/wiki/Protocol_Buffers
 * https://fr.wikipedia.org/wiki/Atom_Publishing_Protocol
 * https://fr.wikipedia.org/wiki/Atom_Syndication_Format
+* [✔️] https://blog.octo.com/cqrs-larchitecture-aux-deux-visages-partie-1/
+* [✔️] https://blog.octo.com/cqrs-larchitecture-aux-deux-visages-partie2/
+* [✔️] https://blog.octo.com/j%E2%80%99ai-mal-a-mon-application-ca-se-soigne/
+* [✔️] https://blog.octo.com/domain-driven-design-des-armes-pour-affronter-la-complexite/
+* https://martinfowler.com/apsupp/spec.pdf
+* [✔️] https://martinfowler.com/bliki/AnemicDomainModel.html
+* https://msdn.microsoft.com/en-us/magazine/dd419654.aspx
+* http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf
+* http://dreamsongs.com/WorseIsBetter.html
+* [✔️] https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
 
 ## Backend
 * https://www.netlify.com/
