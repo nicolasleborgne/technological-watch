@@ -40,6 +40,7 @@ Reminder and tracker of my technological watch
 * https://cqrs.wordpress.com/documents/task-based-ui/
 * https://blog.octo.com/en/event-sourcing-nosql/
 * https://martinfowler.com/eaaDev/EventSourcing.html
+* [✔️] https://www.youtube.com/watch?v=qBLtZN3p3FU
 
 ## Backend
 * https://www.netlify.com/
