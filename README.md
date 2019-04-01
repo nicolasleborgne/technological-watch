@@ -2,21 +2,20 @@
 Reminder and tracker of my technological watch
 
 ## Agility
-* https://blog.octo.com/lagilite-rh-selon-frankenstein-ne-laissez-pas-la-transformation-se-retourner-contre-vous/
+
 
 ## Git
-* [✔️] https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/
-* [✔️] https://youtu.be/Rnh5QK__pLA?list=PLYukwh-ozM4PWCKeNdUfnmscb0oI1cP3T
-* https://delicious-insights.com/fr/articles/git-submodules/
+* [✔️] [Comment bien utiliser git merge et rebase - Delicious Insight](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
+* [✔️] [Git Dammit ! - DevFest Nantes 2018](https://youtu.be/Rnh5QK__pLA?list=PLYukwh-ozM4PWCKeNdUfnmscb0oI1cP3T)
+* [Comprendre et maitriser les submodules git](https://delicious-insights.com/fr/articles/git-submodules/)
 
 ## Testing
-* [✔️] https://blog.octo.com/la-pyramide-des-tests-par-la-pratique-1-5/
-* [✔️] https://www.jamesshore.com/Agile-Book/test_driven_development.html
-* [✔️] https://xp123.com/articles/3a-arrange-act-assert/
-* [✔️] https://martinfowler.com/bliki/GivenWhenThen.html
-* [✔️] https://stackify.com/unit-testing-basics-best-practices/
-* [✔️] https://martinfowler.com/articles/microservice-testing/#agenda
-* https://leanpub.com/wewut
+* [✔️] [La pyramide des tests par la pratique - Octo](https://blog.octo.com/la-pyramide-des-tests-par-la-pratique-1-5/)
+* [✔️] [3A – Arrange, Act, Assert - XP123](https://xp123.com/articles/3a-arrange-act-assert/)
+* [✔️] [Given When Then - Martin Fowler](https://martinfowler.com/bliki/GivenWhenThen.html)
+* [✔️] [You Still Don’t Know How to Do Unit Testing (and Your Secret is Safe with Me) - Stackify](https://stackify.com/unit-testing-basics-best-practices/)
+* [✔️] [Testing Strategies in a Microservice Architecture - Martin Fowler](https://martinfowler.com/articles/microservice-testing/#agenda)
+* [Working Effectively with Unit Tests - Jay Fields](https://leanpub.com/wewut)
 
 ## Architecture
 * [✔️] https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/
@@ -39,8 +38,15 @@ Reminder and tracker of my technological watch
 * [✔️] https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
 * https://cqrs.wordpress.com/documents/task-based-ui/
 * https://blog.octo.com/en/event-sourcing-nosql/
-* https://martinfowler.com/eaaDev/EventSourcing.html
-* [✔️] https://www.youtube.com/watch?v=qBLtZN3p3FU
+* [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+* [✔️] [CQRS, Fonctionnel, Event Sourcing & Domain Driven Design - Arnaud Lemaire - PHP Tour 2018](https://www.youtube.com/watch?v=qBLtZN3p3FU)
+* [Accio : Bounded Contexts !](https://blog.ippon.fr/2018/01/29/accio-bounded-contexts/)
+* [Monolith first - Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html)
+* [Don’t start with a monolith - Martin Fowler](https://martinfowler.com/articles/dont-start-monolith.html)
+* [Microservices For Greenfield? - Sam Newman](https://samnewman.io/blog/2015/04/07/microservices-for-greenfield/)
+* [Refactoring Toward Deeper Insight- Eric Evans](http://dddcommunity.org/wp-content/uploads/files/books/evans_pt03.pdf)
+* [About When Not to Do Microservices - Christian Posta](https://blog.christianposta.com/microservices/when-not-to-do-microservices/)
+* [Mets du Value Object dans ton modèle - Jolicode](https://jolicode.github.io/value-object-conf/slides/index.html)
 
 ## Backend
 * https://www.netlify.com/
