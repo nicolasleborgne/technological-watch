@@ -52,6 +52,7 @@ Reminder and tracker of my technological watch
 * https://www.netlify.com/
 * [✔️] http://fabien.potencier.org/symfony4-unpack-the-packs.html
 * [✔️] https://jolicode.github.io/value-object-conf/slides/index.html
+* [✔️] [Maîtriser le composant Serializer de Symfony - Kévin Dunglas - PHP Tour Montpellier 2018](https://www.youtube.com/watch?v=mbXhQkKg7HE)
 
 ## Frontend
 * https://www.gatsbyjs.org/
