@@ -46,7 +46,8 @@ Reminder and tracker of my technological watch
 * [Microservices For Greenfield? - Sam Newman](https://samnewman.io/blog/2015/04/07/microservices-for-greenfield/)
 * [Refactoring Toward Deeper Insight- Eric Evans](http://dddcommunity.org/wp-content/uploads/files/books/evans_pt03.pdf)
 * [About When Not to Do Microservices - Christian Posta](https://blog.christianposta.com/microservices/when-not-to-do-microservices/)
-* [Mets du Value Object dans ton modèle - Jolicode](https://jolicode.github.io/value-object-conf/slides/index.html)
+* [✔️] [Mets du Value Object dans ton modèle - Jolicode](https://jolicode.github.io/value-object-conf/slides/index.html)
+* [✔️] [https://www.youtube.com/watch?v=aXq05_mdCqE](https://www.youtube.com/watch?v=aXq05_mdCqE)
 
 ## Backend
 * https://www.netlify.com/
