@@ -2,7 +2,7 @@
 Reminder and tracker of my technological watch
 
 ## Agility
-
+* [✔️] [Flaccid Scrum - Martin Fowler](https://martinfowler.com/bliki/FlaccidScrum.html)
 
 ## Git
 * [✔️] [Comment bien utiliser git merge et rebase - Delicious Insight](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
