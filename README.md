@@ -47,13 +47,14 @@ Reminder and tracker of my technological watch
 * [Refactoring Toward Deeper Insight- Eric Evans](http://dddcommunity.org/wp-content/uploads/files/books/evans_pt03.pdf)
 * [About When Not to Do Microservices - Christian Posta](https://blog.christianposta.com/microservices/when-not-to-do-microservices/)
 * [✔️] [Mets du Value Object dans ton modèle - Jolicode](https://jolicode.github.io/value-object-conf/slides/index.html)
-* [✔️] [https://www.youtube.com/watch?v=aXq05_mdCqE](https://www.youtube.com/watch?v=aXq05_mdCqE)
+* [✔️] [Comment j’ai commencé à aimer ce qu’ils appellent « design pattern » - Samuel Roze - Forum PHP 2018](https://www.youtube.com/watch?v=aXq05_mdCqE)
 
 ## Backend
 * https://www.netlify.com/
 * [✔️] http://fabien.potencier.org/symfony4-unpack-the-packs.html
 * [✔️] https://jolicode.github.io/value-object-conf/slides/index.html
 * [✔️] [Maîtriser le composant Serializer de Symfony - Kévin Dunglas - PHP Tour Montpellier 2018](https://www.youtube.com/watch?v=mbXhQkKg7HE)
+* [✔️] [SymfonyLive Paris 2018 - Le composant workflow de Symfony, c'est graphement bien ! - Hamza Amrouche](https://youtu.be/0SthcLMf248)
 
 ## Frontend
 * https://www.gatsbyjs.org/
