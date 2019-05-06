@@ -64,3 +64,4 @@ Reminder and tracker of my technological watch
 * https://docs.ansible.com/ansible/latest/reference_appendices/test_strategies.html
 * https://coderwall.com/p/8yfuva/how-to-develop-ansible-roles-w-unit-test-and-ci
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04
+* [✔️] [Improve your Dockerfile, best practices](https://dev.to/azure/improve-your-dockerfile-best-practices-5ll)
