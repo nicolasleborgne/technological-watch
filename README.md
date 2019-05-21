@@ -16,6 +16,7 @@ Reminder and tracker of my technological watch
 * [✔️] [You Still Don’t Know How to Do Unit Testing (and Your Secret is Safe with Me) - Stackify](https://stackify.com/unit-testing-basics-best-practices/)
 * [✔️] [Testing Strategies in a Microservice Architecture - Martin Fowler](https://martinfowler.com/articles/microservice-testing/#agenda)
 * [Working Effectively with Unit Tests - Jay Fields](https://leanpub.com/wewut)
+* [✔️] [How TDD is related to the quality of code - Uncle Bob](https://www.youtube.com/watch?v=is41fgDrqn0)
 
 ## Architecture
 * [✔️] https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/
@@ -48,6 +49,9 @@ Reminder and tracker of my technological watch
 * [About When Not to Do Microservices - Christian Posta](https://blog.christianposta.com/microservices/when-not-to-do-microservices/)
 * [✔️] [Mets du Value Object dans ton modèle - Jolicode](https://jolicode.github.io/value-object-conf/slides/index.html)
 * [✔️] [Comment j’ai commencé à aimer ce qu’ils appellent « design pattern » - Samuel Roze - Forum PHP 2018](https://www.youtube.com/watch?v=aXq05_mdCqE)
+* [✔️] [Quelle différence y a-t-il entre le bon et le mauvais repository ? - Arnaud Langlade - Forum 2018](https://www.youtube.com/watch?v=cYFKkhtIr8w)
+* [✔️] [Craft – Les patterns tactiques du DDD - Xebia](https://blog.xebia.fr/2018/06/25/craft-les-patterns-tactiques-du-ddd/)
+* [Craft – Le Supple Design en DDD - Xebia](https://blog.xebia.fr/2018/09/06/craft-le-supple-design-en-ddd/)
 
 ## Backend
 * https://www.netlify.com/
