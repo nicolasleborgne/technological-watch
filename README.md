@@ -52,7 +52,8 @@ Reminder and tracker of my technological watch
 * [✔️] [Quelle différence y a-t-il entre le bon et le mauvais repository ? - Arnaud Langlade - Forum 2018](https://www.youtube.com/watch?v=cYFKkhtIr8w)
 * [✔️] [Craft – Les patterns tactiques du DDD - Xebia](https://blog.xebia.fr/2018/06/25/craft-les-patterns-tactiques-du-ddd/)
 * [Craft – Le Supple Design en DDD - Xebia](https://blog.xebia.fr/2018/09/06/craft-le-supple-design-en-ddd/)
-* [][Domain-Driven Design Reference - Eric Evans](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
+* [Domain-Driven Design Reference - Eric Evans](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
+* [Design pattern : Builder et Builder sont dans un bateau](https://blog.xebia.fr/2016/12/28/design-pattern-builder-et-builder-sont-dans-un-bateau/)
 
 ## Backend
 * https://www.netlify.com/
