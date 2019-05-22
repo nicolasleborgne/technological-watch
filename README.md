@@ -54,6 +54,7 @@ Reminder and tracker of my technological watch
 * [Craft – Le Supple Design en DDD - Xebia](https://blog.xebia.fr/2018/09/06/craft-le-supple-design-en-ddd/)
 * [Domain-Driven Design Reference - Eric Evans](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 * [Design pattern : Builder et Builder sont dans un bateau](https://blog.xebia.fr/2016/12/28/design-pattern-builder-et-builder-sont-dans-un-bateau/)
+* [✔️][Code moi une RH ! Arnaud Langlade - PHPTour 2017 Nantes](https://www.youtube.com/watch?v=h0Upir7bg1o&t=1757s)
 
 ## Backend
 * https://www.netlify.com/
