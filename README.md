@@ -1,8 +1,9 @@
 # Technological watch
 Reminder and tracker of my technological watch
 
-## Agility
+## Software development
 * [✔️] [Flaccid Scrum - Martin Fowler](https://martinfowler.com/bliki/FlaccidScrum.html)
+* [] [What is Software Design? - Jack W.Reeves](http://user.it.uu.se/~carle/softcraft/notes/Reeve_SourceCodeIsTheDesign.pdf)
 
 ## Git
 * [✔️] [Comment bien utiliser git merge et rebase - Delicious Insight](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
