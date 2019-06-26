@@ -69,6 +69,7 @@ Reminder and tracker of my technological watch
 * [] [Web Components without a framework: Let’s build a Modal!](https://blog.bitsrc.io/web-components-without-a-framework-lets-build-a-modal-a450a4536340)
 * [] [Why You Shouldn't Use A Web Framework](https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24)
 * [] [Do we still need JavaScript frameworks?](https://www.freecodecamp.org/news/do-we-still-need-javascript-frameworks-42576735949b/)
+* [✔️] [Html can do that ?](https://dev.to/ananyaneogi/html-can-do-that-c0n)
 
 ## Ops
 * [✔️] https://www.deltasight.fr/configurer-workers-php-fpm/
