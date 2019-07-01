@@ -4,6 +4,7 @@ Reminder and tracker of my technological watch
 ## Software development
 * [✔️] [Flaccid Scrum - Martin Fowler](https://martinfowler.com/bliki/FlaccidScrum.html)
 * [] [What is Software Design? - Jack W.Reeves](http://user.it.uu.se/~carle/softcraft/notes/Reeve_SourceCodeIsTheDesign.pdf)
+* [✔️] (The Tragedy of Craftsmanship - Robert C. Martin)[https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html]
 
 ## Git
 * [✔️] [Comment bien utiliser git merge et rebase - Delicious Insight](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
