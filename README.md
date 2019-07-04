@@ -64,6 +64,7 @@ Reminder and tracker of my technological watch
 * [✔️] https://jolicode.github.io/value-object-conf/slides/index.html
 * [✔️] [Maîtriser le composant Serializer de Symfony - Kévin Dunglas - PHP Tour Montpellier 2018](https://www.youtube.com/watch?v=mbXhQkKg7HE)
 * [✔️] [SymfonyLive Paris 2018 - Le composant workflow de Symfony, c'est graphement bien ! - Hamza Amrouche](https://youtu.be/0SthcLMf248)
+* [✔️] [Final classes by default, why?](https://matthiasnoback.nl/2018/09/final-classes-by-default-why/)
 
 ## Frontend
 * https://www.gatsbyjs.org/
