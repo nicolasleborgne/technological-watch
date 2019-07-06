@@ -19,6 +19,9 @@ Reminder and tracker of my technological watch
 * [✔️] [Testing Strategies in a Microservice Architecture - Martin Fowler](https://martinfowler.com/articles/microservice-testing/#agenda)
 * [Working Effectively with Unit Tests - Jay Fields](https://leanpub.com/wewut)
 * [✔️] [How TDD is related to the quality of code - Uncle Bob](https://www.youtube.com/watch?v=is41fgDrqn0)
+* [✔️] [Test Doubles — Fakes, Mocks and Stubs.](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
+* [✔️] [Test Double - Martin Fowler](https://martinfowler.com/bliki/TestDouble.html)
+* [] (Mocks Aren't Stubs - Martin Fowler)[https://martinfowler.com/articles/mocksArentStubs.html]
 
 ## Architecture
 * [✔️] https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/
