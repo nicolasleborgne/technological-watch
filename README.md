@@ -60,6 +60,8 @@ Reminder and tracker of my technological watch
 * [Domain-Driven Design Reference - Eric Evans](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 * [Design pattern : Builder et Builder sont dans un bateau](https://blog.xebia.fr/2016/12/28/design-pattern-builder-et-builder-sont-dans-un-bateau/)
 * [✔️] [Code moi une RH ! Arnaud Langlade - PHPTour 2017 Nantes](https://www.youtube.com/watch?v=h0Upir7bg1o&t=1757s)
+* [✔️] [From CRUD to Hexagonal & DDD, how Meetic saved its codebase](https://speakerdeck.com/jmlamodiere/from-crud-to-hexagonal-and-ddd-how-meetic-saved-its-codebase)
+
 
 ## Backend
 * https://www.netlify.com/
@@ -68,6 +70,10 @@ Reminder and tracker of my technological watch
 * [✔️] [Maîtriser le composant Serializer de Symfony - Kévin Dunglas - PHP Tour Montpellier 2018](https://www.youtube.com/watch?v=mbXhQkKg7HE)
 * [✔️] [SymfonyLive Paris 2018 - Le composant workflow de Symfony, c'est graphement bien ! - Hamza Amrouche](https://youtu.be/0SthcLMf248)
 * [✔️] [Final classes by default, why?](https://matthiasnoback.nl/2018/09/final-classes-by-default-why/)
+* [✔️] [Writing Effective PHP - Nuno Maduro](https://speakerdeck.com/nunomaduro/writing-effective-php)
+* [✔️] [Extremely Defensive PHP - Marco Pivetta](https://www.youtube.com/watch?v=8d2AtAGJPno&feature=youtu.be)
+* [✔️] [Doctrine best practice - Marco Pivetta](https://ocramius.github.io/doctrine-best-practices/#/)
+* [✔️] [Etat de l'art elasticsearch avec php - Jolicode](https://jolicode.github.io/elasticsearch-php-conf/slides/#/)
 
 ## Frontend
 * https://www.gatsbyjs.org/
@@ -75,6 +81,9 @@ Reminder and tracker of my technological watch
 * [] [Why You Shouldn't Use A Web Framework](https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24)
 * [] [Do we still need JavaScript frameworks?](https://www.freecodecamp.org/news/do-we-still-need-javascript-frameworks-42576735949b/)
 * [✔️] [Html can do that ?](https://dev.to/ananyaneogi/html-can-do-that-c0n)
+* [✔️] [7 Practical Tips for Cheating at Design - Steve Shoger](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+* [✔️] [Redesigning Laravel.io - Steve Shoger](https://medium.com/refactoring-ui/redesigning-laravel-io-c47ac495dff0)
+* [✔️] [Practical Solutions to Common UI Design Problems](https://speakerdeck.com/steveschoger/practical-solutions-to-common-ui-design-problems)
 
 ## Ops
 * [✔️] https://www.deltasight.fr/configurer-workers-php-fpm/
