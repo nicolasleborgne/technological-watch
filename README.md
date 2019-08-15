@@ -81,6 +81,7 @@ Reminder and tracker of my technological watch
 * [] [Why You Shouldn't Use A Web Framework](https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24)
 * [] [Do we still need JavaScript frameworks?](https://www.freecodecamp.org/news/do-we-still-need-javascript-frameworks-42576735949b/)
 * [✔️] [Html can do that ?](https://dev.to/ananyaneogi/html-can-do-that-c0n)
+* [✔️] [CSS can do that ?](https://dev.to/ananyaneogi/css-can-do-that-18g7)
 * [✔️] [7 Practical Tips for Cheating at Design - Steve Shoger](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 * [✔️] [Redesigning Laravel.io - Steve Shoger](https://medium.com/refactoring-ui/redesigning-laravel-io-c47ac495dff0)
 * [✔️] [Practical Solutions to Common UI Design Problems](https://speakerdeck.com/steveschoger/practical-solutions-to-common-ui-design-problems)
